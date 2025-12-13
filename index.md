@@ -1,7 +1,7 @@
 # Washington State EV Analysis project
 Group members: Emerie Tattersall, Liam McBride
 
-[Colab link](EV_Visualizations.ipynb)
+[Colab link](https://colab.research.google.com/drive/17toISJX12FlglLiKuirAiKLZBfs_c0E7?usp=sharing)
 
 ## Report
 For this project we chose to examine Washington State (WA) and its electric vehicles (EVs), specifically the vehicle population and infrastructure, in relation to landmark legislation regarding EVs. The two questions we are trying to answer are if these landmark legislations positively correlate with a higher growth rate in EV population, and higher growth rate in infrastructure (EV chargers). We chose one dataset to answer each question. The dataset for EVs includes information about each EV registered in WA, such as year, make, model, and county/city. The second dataset has the location of every EV charging station in WA and when it was established. The most important pieces of data from each dataset are the dates, as we need this information to cross reference with the dates of landmark legislation events. Using the dates of each event, we can see if there is an increase in growth rate for EV population and infrastructure. Regarding the legislation, the original 2008 EV tax incentives had caps for each manufacturer. This means that incentives were gradually lessened and made unavailable when an automaker sold more than 200,000 vehicles. This should result in a slow decline as eventually all manufacturers hit that limit. Subsequent legislation in 2021 and 2022 had no such limit. 
